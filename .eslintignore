@@ -1,0 +1,10 @@
+!.eslintrc.js
+!.size-limit.js
+!.mocharc.js
+
+/dist/**
+/lib/**
+
+/src/typings/_resize-observer/index.d.ts
+
+**/node_modules
